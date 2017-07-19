@@ -1,0 +1,4 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
+{
+    "python.pythonPath": "C:/var/ws/work/robot/var/snippets/flask-server/python/Scripts/python.exe"
+}
