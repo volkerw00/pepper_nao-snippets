@@ -1,0 +1,3 @@
+[submodule "ibm-watson/speech-to-text-websockets-python"]
+	path = ibm-watson/speech-to-text-websockets-python
+	url = https://github.com/voowoo/speech-to-text-websockets-python
